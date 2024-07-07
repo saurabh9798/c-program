@@ -1,0 +1,1 @@
+// wap in c to input any number after that print table 

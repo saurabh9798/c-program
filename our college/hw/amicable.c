@@ -1,0 +1,1 @@
+// wap in c to input two number after that check number is amicable or not 220 228 
